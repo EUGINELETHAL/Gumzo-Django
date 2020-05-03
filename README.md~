@@ -1,8 +1,8 @@
-## Gumzo is a social network built using Django
+## Django Social Network
 
+#### An open source Social Network
 
-
-Tech Stack
+Used Tech Stack
 
 1. Django
 2. Sqlite
@@ -15,10 +15,6 @@ Current Features:
 3. Receive notification when someone comment on your post
 4. Send friend request and accept request
 5. Live chat with friends
-
-Deployment
-
- HEROKU
 
 ### Screenshots
 
@@ -34,4 +30,4 @@ Deployment
 
 <img src="screenshots/three.png" height="400">
 
-
+Show your support by 🌟 the project!!

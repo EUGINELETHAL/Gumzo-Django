@@ -495,9 +495,9 @@ header.sticky {
 }
 
 .land-featurearea {
-    background:#fcfcfc none repeat scroll 0 0;
-    background-image: url('GUMZO1.jpg');
-    color: #fff;
+   
+    background-image: url('gettyimages.png');
+    
     float: left;
     height: 100vh;
     position: relative;

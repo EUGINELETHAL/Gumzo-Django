@@ -17,7 +17,7 @@
 
     <div class="topbar stick">
         <div class="logo">
-            <a title="" href="/"><img src="{% static 'images/Gumzo4.png' %}" alt="" style="height: 50px; width: 90px"></a>
+            <a title="" href="/"><img src="{% static 'images/gumzo3.png' %}" alt="" style="height: 50px; width: 90px"></a>
         </div>
 
         <div class="top-area">
